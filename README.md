@@ -2,6 +2,54 @@
 # 📚 Lista de Tarefas 1 - Resolução dos Exercícios
 
 Bem-vindo ao repositório da **Lista de exercícios 1**! Neste espaço, apresento a resolução dos exercícios propostos, abordando conceitos fundamentais de programação.
+## 🛠️ Configuração e Execução dos Exercícios
+
+### Pré-requisitos
+
+Certifique-se de ter o Node.js instalado em sua máquina. Você pode verificar a instalação do Node.js usando o seguinte comando no terminal:
+
+```bash
+node -v
+```
+
+### Passos para Configuração
+
+1. **Clone o Repositório:**
+Primeiramente, clone este repositório para sua máquina local:
+
+```bash
+git clone https://github.com/Almile/lista01-ExerciciosJavaScript.git
+```
+
+2. **Navegue até o Diretório do Projeto:**
+Entre na pasta do repositório clonado:
+
+```bash
+cd lista01-ExerciciosJavaScript
+```
+
+3. **Instale as Dependências (se aplicável):**
+Se algum exercício requerer dependências, instale-as utilizando o npm:
+```bash
+npm install
+```
+
+### Executando os Exercícios
+
+
+Cada exercício está localizado em seu respectivo diretório dentro da pasta `lista01-ExerciciosJavaScript`. Para executar um exercício, navegue até o diretório correspondente e execute o arquivo JavaScript com o Node.js:
+
+1. **Navegue até o Diretório do Exercício:**
+```bash
+cd lista01-ExerciciosJavaScript/ex01ParImpar.js
+```
+
+2. **Execute o Arquivo JavaScript:**
+```bash
+node ex01ParImpar.js
+```
+
+
 
 ## 🚀 Exercícios Propostos
 
